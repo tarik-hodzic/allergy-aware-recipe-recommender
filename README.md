@@ -9,7 +9,7 @@ safe, personalized recommendations.
 
 - Python  
 - pandas  
-- NLTK (tokenization, stopwords removal, POS tagging, lemmatization)  
+- NLTK (tokenization, stop-word removal, POS tagging, lemmatization)  
 - scikit-learn (TF-IDF, cosine similarity, Logistic Regression, Linear SVM, train/test split)  
 - pyspellchecker (spell correction)  
 - RapidFuzz (fuzzy matching)  
@@ -30,7 +30,7 @@ This project was built to:
 - Allergy-aware recipe filtering  
 - Ingredient-based recommendation logic  
 - Text preprocessing (tokenization, lemmatization, stop-word removal)  
-- Named Entity Recognition (NER) for ingredient analysis  
+- Ingredient and allergen detection based on NLP preprocessing and text matching 
 - Similarity-based recipe recommendations using TF-IDF  
 - Support for user-defined allergies and dietary preferences  
 
