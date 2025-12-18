@@ -8,12 +8,12 @@ safe, personalized recommendations.
 <h2>Technologies Used</h2>
 
 - Python  
-- Natural Language Processing (NLP)  
-- spaCy  
 - pandas  
-- scikit-learn  
-- TF-IDF Vectorization  
-- Jupyter Notebook / Google Colab  
+- NLTK (tokenization, stopwords removal, POS tagging, lemmatization)  
+- scikit-learn (TF-IDF, cosine similarity, Logistic Regression, Linear SVM, train/test split)  
+- pyspellchecker (spell correction)  
+- RapidFuzz (fuzzy matching)  
+- matplotlib (evaluation and confusion matrix visualization)    
 
 <h2>Project Purpose</h2>
 
